@@ -1261,7 +1261,7 @@
                &kp LCTRL  &kp LALT &lwin_cad &td_ll_l3  &ret_menu  &kp SPACE    &td_rl_l3  &kp RGUI &kp RALT  &kp RCTRL
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &tab_browser>;
+            sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP &tab_browser>;
         };
 
         lower_layer {
